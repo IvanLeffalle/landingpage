@@ -92,7 +92,7 @@ function App() {
 
           <div className="mt-5 pt-5 border-t border-gray-700">
             <p className="text-xs text-gray-500">
-              © 2025 Alelí Vestidos Modestos · Elegancia con actitud streetwear
+              © 2025 Alelí Vestidos Modestos · Elegancia y modestia.
             </p>
           </div>
         </div>
