@@ -70,7 +70,7 @@ function App() {
 
           <div className="flex justify-center gap-6 text-gray-500">
             <a
-              href="#"
+              href="https://www.instagram.com/vestidosaleli/"
               className="flex items-center gap-2 hover:text-pink-500 transition-colors duration-300"
             >
               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -80,13 +80,13 @@ function App() {
             </a>
 
             <a
-              href="#"
+              href="https://www.facebook.com/AleliVestidos"
               className="flex items-center gap-2 hover:text-pink-500 transition-colors duration-300"
             >
               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M12.017 0C5.396 0 .029 5.367...z" />
               </svg>
-              <span>Pinterest</span>
+              <span>Facebook</span>
             </a>
           </div>
 
